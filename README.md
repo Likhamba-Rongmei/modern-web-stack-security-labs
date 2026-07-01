@@ -96,7 +96,7 @@ I wanted something in between. So the idea with this repo is to keep the technic
 ## Notes
 
 * All modules are based on **intentionally vulnerable lab environments** used for learning and portfolio development.
-* Some hostnames, endpoint names, and sensitive returned values are **redacted or generalized** in screenshots and write-ups so the projects read more like technical case studies and less like challenge transcripts.
+* Some hostnames, endpoint names, and sensitive returned values are **redacted** in screenshots and write-ups so the projects read more like technical case studies and less like challenge transcripts.
 * The point of the repo is not just "exploit worked"; it's to show that I can **take a vulnerability from discovery to a clean write-up**.
 
 ---
